@@ -1,0 +1,6 @@
+build/
+*.apk
+keystore/
+KSLiteTimer-src.zip
+.gradle/
+local.properties
