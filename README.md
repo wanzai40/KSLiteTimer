@@ -1,4 +1,4 @@
-# 快手极速版时间管家（KSLiteTimer）
+# 快手极速版时间管家（KSLiteTimer）让睡前听小说睡觉防睡着忘关
 
 一个面向 **快手极速版**（`com.kuaishou.nebula`）的 LSPosed 模块，基于 **libxposed Modern API 102**，运行在 Android 17（SDK 37）上。用来限制每日使用时长：快到点弹窗提醒（可延长同样时长或忽略），到点自动关闭应用。
 
